@@ -1,1 +1,1 @@
-# findcoins-desktop
+# finchaindesktop
